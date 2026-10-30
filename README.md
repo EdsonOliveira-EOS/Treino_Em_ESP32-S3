@@ -22,7 +22,7 @@ Treino pessoal com a **ESP32-S3** para ganhar aprendizado, experiência e conhec
 ## 📝 Diário de aprendizado
 
 - **29/10/2026: Chegada da ESP32-S3 em minha casa, nesse dia eu configurei o meu ambiente GitHub para deixar a estrutura organizada e estive estudando em relação ao ambiente para progamação da ESP32.**
-- **30/10/2026: Estudando como fazer a configuração do ambiente ESP-IDF para a programação, flash e monitor da placa ESP.
+- **30/10/2026: Estudando como fazer a configuração do ambiente ESP-IDF para a programação, flash e monitor da placa ESP32.**
 
 ## 👤 Autor
 
