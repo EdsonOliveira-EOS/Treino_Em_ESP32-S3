@@ -15,7 +15,7 @@ Treino pessoal com a **ESP32-S3 WROOM Modelo N16R8** para ganhar aprendizado, ex
 
 | Pasta | Conteúdo |
 |-------|----------|
-| `01-blink/` |  |
+| |  |
 
 ## 🛠️ Hardware e ferramentas
 
