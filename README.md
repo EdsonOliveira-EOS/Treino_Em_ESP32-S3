@@ -7,10 +7,6 @@
 
 Treino pessoal com a **ESP32-S3** para ganhar aprendizado, experiência e conhecimento em microcontroladores, visando a entrada no projeto **LIVE** do [CIn-UFPE](https://portal.cin.ufpe.br/), visando trabalhar junto do Professor Abel Guilhermino.
 
-## 🗺️ Roadmap atual.
-
-- [X] Configurar o ambiente de desenvolvimento
-
 ## 📁 Estrutura do repositório
 
 | Pasta | Conteúdo |
