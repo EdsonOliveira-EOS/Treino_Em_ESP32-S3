@@ -26,5 +26,7 @@ Treino pessoal com a **ESP32-S3** para ganhar aprendizado, experiência e conhec
 ## 👤 Autor
 
 **Edson Oliveira da Silva**
+
 Estudante de Engenharia da Computação no CIn-UFPE
+
 [GitHub](https://github.com/EdsonOliveira-EOS)
