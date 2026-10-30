@@ -2,7 +2,6 @@
 
 ![ESP32-S3](https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Status](https://img.shields.io/badge/status-em%20andamento-yellow?style=for-the-badge)
 
 ## 🎯 Objetivo
 
