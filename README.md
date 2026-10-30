@@ -9,7 +9,7 @@ Treino pessoal com a **ESP32-S3** para ganhar aprendizado, experiência e conhec
 
 ## 🗺️ Roadmap atual.
 
-- [ ] Configurar o ambiente de desenvolvimento
+- [X] Configurar o ambiente de desenvolvimento
 
 ## 📁 Estrutura do repositório
 
