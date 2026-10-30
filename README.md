@@ -5,7 +5,7 @@
 
 ## 🎯 Objetivo
 
-Treino pessoal com a **ESP32-S3 WROOM Modelo N16R8** para ganhar aprendizado, experiência e conhecimento em microcontroladores, visando a entrada no projeto **LIVE** do [CIn-UFPE](https://portal.cin.ufpe.br/), visando trabalhar junto do Professor Abel Guilhermino.
+Treino pessoal com a **ESP32-S3** para ganhar aprendizado, experiência e conhecimento em microcontroladores, visando a entrada no projeto **LIVE** do [CIn-UFPE](https://portal.cin.ufpe.br/), visando trabalhar junto do Professor Abel Guilhermino.
 
 ## 🗺️ Roadmap atual.
 
@@ -19,7 +19,7 @@ Treino pessoal com a **ESP32-S3 WROOM Modelo N16R8** para ganhar aprendizado, ex
 
 ## 🛠️ Hardware e ferramentas
 
-- **Placa:** ESP32-S3.
+- **Placa:** ESP32-S3 WROOM modelo N16R8.
 - **Ambiente:** *(VsCode c/ extensão ESP32-IDF).*
 - **Linguagem:** C/C++.
 
